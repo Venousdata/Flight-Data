@@ -1,0 +1,9 @@
+{
+  "name": "takehome",
+  "version": "1.2.0",
+  "description": "Display flight data",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
