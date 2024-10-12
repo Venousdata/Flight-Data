@@ -47,7 +47,7 @@ FRONTEND:
 - Look in to a cleaner way of calculating total / current page variables. I am not too familiar with sqlite, so i don't know if this is already supported.
 - There's a console error being logged due to having a tr element inside of a div. given more time, I'd tidy that up
 
-# What other tests you'd expect to be written for a real system
+# What other tests I'd expect to be written for a real system
 BACKEND (test cases i'd write given more time):
 - db created with correct path
 - error thrown if path does not exist
